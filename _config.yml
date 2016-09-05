@@ -7,9 +7,9 @@
 
 # Site settings
 title: 氵心  迹
-description: '' # write a nice description for your blog
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site http://www.example.com
+description: '在打码的道路上，渐行渐远' # write a nice description for your blog
+baseurl: 'https://github.com/ciacy/' # the subpath of your site, e.g. /blog
+url: 'https://github.com/ciacy/ciacy.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
 twitter_username: 'ciacy'
 
