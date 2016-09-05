@@ -7,7 +7,7 @@
 
 # Site settings
 title: 氵心  迹
-description: '在打码的道路上,渐行渐远' # write a nice description for your blog
+description: '' # write a nice description for your blog
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
