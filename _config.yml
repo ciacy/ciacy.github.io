@@ -1,6 +1,6 @@
 # Site settings
 
-title:   ciro   # Title of your site
+title:   nix   # Title of your site
 email:  # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
